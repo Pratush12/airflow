@@ -305,6 +305,8 @@ These are extras that add dependencies needed for integration with external serv
 +---------------------+-----------------------------------------------------+-----------------------------------------------------+
 | zendesk             | ``pip install 'apache-airflow[zendesk]'``           | Zendesk hooks                                       |
 +---------------------+-----------------------------------------------------+-----------------------------------------------------+
+| mariadb             | ``pip install 'apache-airflow[mariadb]'``           | mariadb hooks and operators                                       |
++---------------------+-----------------------------------------------------+-----------------------------------------------------+
 
 Locally installed software extras
 =================================

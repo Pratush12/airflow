@@ -180,6 +180,9 @@ labelPRBasedOnFilePath:
   provider:keycloak:
     - providers/keycloak/**
 
+  provider:mariadb:
+    - providers/mariadb/**
+
   provider:microsoft-azure:
     - providers/microsoft/azure/**
 
